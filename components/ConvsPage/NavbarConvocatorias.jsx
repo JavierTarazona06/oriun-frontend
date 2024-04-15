@@ -10,7 +10,7 @@ function NavbarConvocatorias({ links }) {
       <nav className="flex items-center justify-between mx-auto max-w-[1580px] p-5 shadow-md rounded-xl">
         <h1 className="text-black font-bold text-[60px]">ORIUN</h1>
         <div className="w-40">
-          <Link href="/api/auth/signin">
+          <Link href="https://oriun.vercel.app/">
             <button
               type="button"
               className="w-full font-semibold bg-figma_blue border-2 rounded-full border-figma_blue text-white hover:text-figma_blue hover:bg-white py-2"
